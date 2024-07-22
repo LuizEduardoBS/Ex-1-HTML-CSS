@@ -153,9 +153,7 @@ footer {
   }
 
   .detalhe {
-    top: 10px;
-    right: 47%;
-    
+    visibility: hidden;
   }
 
   .bloco2 {
@@ -175,6 +173,9 @@ footer {
   }
   .info p {
     text-align: center;
+  }
+  .bloco2 img {
+    max-width: 95%;
   }
 
   .bloco3 {
